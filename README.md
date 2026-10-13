@@ -100,7 +100,7 @@ cmake --build build --config Release
 Linux에서는 먼저 의존성을 설치하세요:
 
 ```bash
-sudo apt install libasound2-dev libfreetype-dev libx11-dev libxext-dev \
+sudo apt install libasound2-dev libfreetype-dev libfontconfig1-dev libx11-dev libxext-dev \
   libxinerama-dev libxrandr-dev libxcursor-dev libgl1-mesa-dev
 ```
 
